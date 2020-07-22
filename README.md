@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu perfil! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<div align="center">
+<div>
   
   [![Twitter Badge](https://img.shields.io/badge/-@FelipeEffting-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipeeffting)](https://twitter.com/felipeeffting) [![Linkedin Badge](https://img.shields.io/badge/-FelipeEffting-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-mota-effting-a8366b161/)](https://www.linkedin.com/in/felipe-mota-effting-a8366b161/) [![Gmail Badge](https://img.shields.io/badge/-felipe.motaeffting@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.motaeffting@gmail.com)](mailto:felipe.motaeffting@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-FelipeEffting-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.linkedin.com/in/felipe-mota-effting-a8366b161/)](https://www.facebook.com/Felipeeffting1)
 
