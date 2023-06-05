@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 
-- 🔭 I’m currently working at [Pixter](https://www.pixtertechnologies.com/) as a Tech Lead
+- 🔭 I’m currently working at [Asaas](https://asaas.com.br/) as a Software Engineer
 
 - 📫 How to reach me **felipe.motaeffting@gmail.com**
 
